@@ -1,0 +1,20 @@
+Interview:
+Crack the coding interview (https://1drv.ms/b/s!Aip9WUPjfGoelPwPQjetLQHDbMpm8A)
+The Complete Job Guide
+*How to prepare for a coding interview
+*Software Engineer Interview Unleashed
+*The Coding Interview Bootcamp - Algorithms + Data Structures
+
+算法:
+Stanford - Algorithms
+Princeton - Algorithms
+
+Java:
+Effective Java (https://1drv.ms/b/s!Aip9WUPjfGoenboQBG2TcG4ZyZfY1Q)
+Java 9 Masterclass - Beginner to Expert
+*Java Interview Guide  - 200+ Interview Questions and Answers (这门课主要是里面有个pdf有200个问题，面试前可以看一下，查缺补漏用）
+
+
+React:
+React 16 - The Complete Guide (incl. React Router 4 & Redux)
+Modern React with Redux
